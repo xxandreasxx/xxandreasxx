@@ -7,9 +7,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **full stack web app**
+ 🔭 I’m currently working on ** **
  
- 🌱 I’m currently learning **PHP**
+ 🌱 I’m currently learning ** **
  
  </div>
  
