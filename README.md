@@ -24,11 +24,22 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,visualstudio,github,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,cs,dotnet,vue,mysql,laravel" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">Projects worked on</h2>
+<br/>
+<div align="center">
+  <a href="https://www.supportersfederatie.be/" target="_blank">
+     <p target="_blank">www.supportersfederatie.be</p>
+  </a>
 </div>
 
 <br/>
