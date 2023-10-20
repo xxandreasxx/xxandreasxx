@@ -1,7 +1,5 @@
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andreas+Soete!;" />
-</h1>
+
 
 <h3 align="center">graduate Student Programming</h3>
 
@@ -29,18 +27,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=,javascript,c#,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,visualstudio,github,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,cs,dotnet,vue,mysql,laravel" />
 </div>
 
 <br/>
 <hr/>
 
-<br/><br/>
-<hr/>
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFC815&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+visiting!;Send+me+a+message+on+Linkedin!" alt="Typing SVG" /></a>
+</h2>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;)">
-</h3>
-
-<br/>
