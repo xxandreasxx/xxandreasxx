@@ -1,6 +1,4 @@
 
-
-
 <img src="https://github.com/xxandreasxx/xxandreasxx/blob/main/Images/bannerGithub2.png" />
 
 <br/>
@@ -37,9 +35,7 @@
 <h2 align="center">Projects worked on</h2>
 <br/>
 <div align="center">
-  <a href="https://www.supportersfederatie.be/" target="_blank">
-     <p target="_blank">www.supportersfederatie.be</p><p> : Full stack web app made in Laravel</p>
-  </a>
+ <a href="https://www.supportersfederatie.be" target="_blank">www.supportersfederatie.be</a> : Full stack web app made in Laravel
 </div>
 
 <br/>
