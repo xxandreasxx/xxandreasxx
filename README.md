@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">graduate Student Programming</h3>
+<img src="https://github.com/xxandreasxx/xxandreasxx/blob/main/Images/bannerGithub2.png" />
 
 <br/>
 
