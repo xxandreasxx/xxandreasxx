@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on **full stack web app**
  
- 🌱 I’m currently learning **node.js & express.js**
+ 🌱 I’m currently learning **PHP**
  
  </div>
  
