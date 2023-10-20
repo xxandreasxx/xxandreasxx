@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on ** **
  
- 🌱 I’m currently learning ** **
+ 🌱 I’m currently learning **Node.js & Express.js**
  
  </div>
  
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
   <a href="https://www.supportersfederatie.be/" target="_blank">
-     <p target="_blank">www.supportersfederatie.be</p>
+     <p target="_blank">www.supportersfederatie.be</p><p> : Full stack web app made in Laravel</p>
   </a>
 </div>
 
