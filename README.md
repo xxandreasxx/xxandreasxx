@@ -1,15 +1,3 @@
-
-<img src="https://github.com/xxandreasxx/xxandreasxx/blob/main/Images/bannerGithub2.png" />
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on ** **
- 
- 🌱 I’m currently learning **Node.js & Express.js**
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:andreassoete1@gmail.com">
